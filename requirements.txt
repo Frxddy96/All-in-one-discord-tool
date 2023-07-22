@@ -1,0 +1,13 @@
+requests
+colorama
+os-sys
+ctypes
+datetime
+string
+tls_client
+discord
+random
+keyauth
+pathlib
+hashlib
+threading
